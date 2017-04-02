@@ -31,6 +31,7 @@ class IssueListViewController: UIViewController {
   }
 
   func setupRx() {
+    // setup provider
     provider = RxMoyaProvider<Github>()
     
     // setup model
