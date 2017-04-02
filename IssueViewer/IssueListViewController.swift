@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  IssueListViewController.swift
 //  IssueViewer
 //
 //  Created by Michael Le on 02/04/2017.
